@@ -60,10 +60,6 @@ nav a:hover{
     display: "imagem";
     min-width:240px;
 }
-.imagem:hover{
-    filter: blur(2px);
-}
-
 @media (max-width: 970px){
     .fotos{
         width: 100%;
